@@ -1,0 +1,6 @@
+ERROR: La restauración de Gitlab ha fallado.
+
+Fecha:   $(date)
+Servidor: $(hostname)
+
+Por favor, revisa los detalles del error a continuación y consulta los logs del sistema.
