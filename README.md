@@ -25,7 +25,7 @@ Cada línea de los logs generados incluye:
 
 ## 📄 Descripción de los Scripts
 
-### 1. `correo.sh` (El Maestro)
+### 1. `Inicio.sh` (El Maestro)
 Es el punto de entrada principal. Gestiona el log global en `/tmp`, controla el flujo de errores y utiliza `curl` para enviar notificaciones SMTP basadas en las plantillas de mensaje.
 
 ### 2. `conexion.sh`
